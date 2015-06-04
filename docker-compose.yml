@@ -1,0 +1,12 @@
+content:
+  build: ./content
+blog:
+  build: ./rendered
+  volumes_from:
+    - content
+nginx:
+  build: ./nginx
+  volumes_from:
+    - blog
+  ports:
+    - "8989:80"
