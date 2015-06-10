@@ -11,4 +11,4 @@ Dockerfile for blog powered by hugo
 
 ## Demo
 
-- blog.whiteworld.me
+- [blog.whiteworld.me](http://blog.whiteworld.me/)
