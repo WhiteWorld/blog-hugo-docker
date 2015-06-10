@@ -8,3 +8,7 @@ Dockerfile for blog powered by hugo
 - cd blog-hugo-docker; docker-compose up
 - open browser, see http://server_ip:8989
 - Maybe change server_name in nginx/sites-enabled/default 
+
+## Demo
+
+- blog.whiteworld.me
